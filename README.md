@@ -21,3 +21,7 @@ Horiseon is an SEO company wanting to make their company website more accessible
 - Changed `<div>`s into meaningful semantic HTML elements such as `<main>`, `<article>`, and `<header>`.
 - Edited the CSS to reflect the new elements.
 - Removed redundant CSS classes and applied them to specific elements within their parent classes instead.
+
+## Who I Am
+
+Kat Dixon is a developing developer with interests in accessibility, security, and the intersections between the two.
