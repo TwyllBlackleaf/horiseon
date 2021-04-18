@@ -1,3 +1,15 @@
+/* 
+Table of Contents
+
+GENERAL: Styles for the whole page
+HEADER: Site name and navigation
+HERO: Hero image
+CONTENT: main contents
+BENEFITS: secondary section
+FOOTER: made-by and copyright
+*/
+
+/* GENERAL: Styles for the whole page */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +20,16 @@ body {
     background-color: #d9dcd6;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+/* HEADER: Site name and navigation */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,15 +63,7 @@ body {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
+/* HERO: Hero image */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +73,7 @@ p {
     background-position: center;
 }
 
+/* CONTENT: Main contents */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -93,6 +108,7 @@ p {
     font-size: 36px;
 }
 
+/* BENEFITS: Secondary section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -120,6 +136,7 @@ p {
     max-width: 150px;
 }
 
+/* FOOTER: Made-by and copyright */
 .footer {
     padding: 30px;
     clear: both;
