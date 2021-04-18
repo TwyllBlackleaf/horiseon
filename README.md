@@ -14,14 +14,15 @@ Horiseon is an SEO company wanting to make their company website more accessible
 ## What I Did
 
 - Made the website's HTML more navigable for screenreaders.
-- Added alt text to images.
-- Tidied up the website's CSS styles to eliminate redundancy.
+- Tidied up the website's CSS styles to eliminate redundancy and improve legibility.
 
 ## How I Did It
 
 - Changed `<div>`s into meaningful semantic HTML elements such as `<main>`, `<article>`, and `<header>`.
+- Added alt text to images.
 - Edited the CSS to reflect the new elements.
 - Removed redundant CSS classes and applied them to specific elements within their parent classes instead.
+- Rearranged CSS document and added table of contents and comments for clarity.
 
 ## Who I Am
 
