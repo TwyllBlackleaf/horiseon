@@ -1,9 +1,19 @@
 # Horiseon
-A code-refactoring project for a company website
+A code-refactoring project
+
+![The Horiseon website's nav and hero sections](/assets/images/horiseon-website-image.png)
+
+## The Project
+
+Horiseon is an SEO company wanting to make their company website more accessible to screenreaders and more prominent in search results.
+
+## The Website
+
+<https://twyllblackleaf.github.io/horiseon/>
 
 ## What I Did
 
-- Made the website more navigable for screenreaders
+- Made the website's HTML more navigable for screenreaders 
 - Tidied up the website's CSS styles to eliminate redundancy
 
 ## How I Did It
