@@ -13,8 +13,9 @@ Horiseon is an SEO company wanting to make their company website more accessible
 
 ## What I Did
 
-- Made the website's HTML more navigable for screenreaders 
-- Tidied up the website's CSS styles to eliminate redundancy
+- Made the website's HTML more navigable for screenreaders.
+- Added alt text to images.
+- Tidied up the website's CSS styles to eliminate redundancy.
 
 ## How I Did It
 
